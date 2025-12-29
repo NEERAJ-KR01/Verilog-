@@ -7,4 +7,4 @@ This repository contains my practice codes for Verilog and SystemVerilog.
 #1. Full Adder
  A simple 1-bit Full Adder design using Dataflow modeling.
 
- created By Neeraj Kumar
+ created By "Neeraj Kumar"
