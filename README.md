@@ -1,6 +1,6 @@
 # Verilog-
 My journey of learning SystemVerilog and Digital Design.
-# Verilog Practice Projects 🚀
+# Verilog Practice Projects 
 
 This repository contains my practice codes for Verilog and SystemVerilog.
   $ Project List!
